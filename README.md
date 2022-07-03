@@ -3,10 +3,10 @@ this is an  NFT Game — which is the character you play as in NFT Game Players 
 
 For this project I built an Web3 game that allows users to select a playable minted NFT character that they then use to play the game
 
-Frameworks used
-Reactjs
-Solidity
-Technologies used while building
+# Frameworks used
+☀︎ Reactjs
+☀︎ Solidity
+# Technologies used while building
 Alchemy
 OpenSea
 MetaMask
