@@ -7,6 +7,6 @@ For this project I built an Web3 game that allows users to select a playable min
 ☀︎ Reactjs
 ☀︎ Solidity
 # Technologies used while building
-Alchemy
-OpenSea
-MetaMask
+☀︎ Alchemy
+☀︎ OpenSea
+☀︎ MetaMask
